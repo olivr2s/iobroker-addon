@@ -24,7 +24,7 @@
     "8081/tcp": "Admin interface"
   },
   "stage": "experimental",
-  "url": "https://github.com/buanet",
+  "url": "https://github.com/olivr2s/iobroker-addon",
   "hassio_role": "default",
   "hassio_api": true
 }
