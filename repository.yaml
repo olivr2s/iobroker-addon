@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 name: IoBroker add-on for Home Assistant repository
 url: 'https://github.com/olivr2s/iobroker-addon'
-maintainer: Awesome Maintainer <olivr2s@gmail.com>
+maintainer: Olivier Resciniti <olivr2s@gmail.com>
